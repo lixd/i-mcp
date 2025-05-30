@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "mymcp-stdio": {
+      "command": "/Users/lixueduan/17x/projects/i-mcp/cmd/main",
+      "args": [
+      ],
+      "disabled": false,
+      "autoApprove": []
+    },
+    "mymcp-sse": {
+      "url": "http://localhost:8080/sse",
+      "disabled": false
+    }
+  }
+}
